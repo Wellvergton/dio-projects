@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "nome": "Rick",
+      "mensagem": "Glorzo!",
+      "id": 1
+    },
+    {
+      "nome": "Rick",
+      "mensagem": "PICKLE RICK!",
+      "id": 2
+    }
+  ]
+}
