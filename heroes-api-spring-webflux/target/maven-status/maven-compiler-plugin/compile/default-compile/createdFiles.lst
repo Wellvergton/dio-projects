@@ -1,0 +1,9 @@
+com/digitalinnovation/livecoding/config/DynamoConfig.class
+com/digitalinnovation/livecoding/HeroesApiApplication.class
+com/digitalinnovation/livecoding/service/HeroesService.class
+com/digitalinnovation/livecoding/config/HeroesTable.class
+com/digitalinnovation/livecoding/controller/HeroesController.class
+com/digitalinnovation/livecoding/repository/HeroesRepository.class
+com/digitalinnovation/livecoding/constants/HeroesConstant.class
+com/digitalinnovation/livecoding/config/HeroesData.class
+com/digitalinnovation/livecoding/document/Heroes.class

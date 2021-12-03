@@ -1,0 +1,9 @@
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/config/HeroesTable.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/repository/HeroesRepository.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/controller/HeroesController.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/HeroesApiApplication.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/constants/HeroesConstant.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/document/Heroes.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/config/DynamoConfig.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/service/HeroesService.java
+/home/wellvergton/Documentos/Workspaces/dio-projects/heroes-api-spring-webflux/src/main/java/com/digitalinnovation/livecoding/config/HeroesData.java
